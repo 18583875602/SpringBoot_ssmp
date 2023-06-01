@@ -11,7 +11,8 @@ public class SSMPApplication {
         System.out.println("??????");
         System.out.println("this is hot fix2----------");
         System.out.println("this is push-test");
-        SpringApplication.run(SSMPApplication.class, args);
+        System.out.println("this is pull-test");
+        SpringApplication.run(SSMPApplication.class, args);     
     }
 
 }
