@@ -10,6 +10,7 @@ public class SSMPApplication {
         System.out.println("this is hot fix----------");
         System.out.println("??????");
         System.out.println("this is hot fix2----------");
+        System.out.println("this is push-test");
         SpringApplication.run(SSMPApplication.class, args);
     }
 
